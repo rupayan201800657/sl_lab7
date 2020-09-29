@@ -1,0 +1,11 @@
+.inputbox {
+    width: 50%;
+    margin: 5px auto 5px auto;
+    background-color: #eeeeee;
+    padding: 10px 10px 10px 10px;
+    text-align:center;
+}
+
+.inputbox button {
+    margin-left: 20px;
+}
